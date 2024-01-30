@@ -8,5 +8,5 @@ A training and a tribute to my favorite painter, Claude Monet.
 
 ### PortFolio
 
-A re-iteration of my portfolio that fits me better but i don't have the time to finish it.
+A re-iteration of my portfolio that fits me better but i don't have the time to develop/code it.
 ![Portfolio](https://github.com/G1anC/DESIGNS/blob/main/.github/Portfolio.png)
