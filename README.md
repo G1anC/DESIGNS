@@ -1,3 +1,8 @@
-# Web-Designs
+# Designs
+This repository is filled with front-end designs made with Figma as trainings to see my web design level.
 
-This is a repository filled with front-end designs made with Figma.
+### Monet design
+![Monet](https://github.com/G1anC/DESIGNS/blob/main/.github/MonetHome.png)
+
+### PortFolio
+![Portfolio](https://github.com/G1anC/DESIGNS/blob/main/.github/Portfolio.png)
