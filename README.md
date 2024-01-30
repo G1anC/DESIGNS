@@ -3,3 +3,6 @@ This repository is filled with front-end designs made with Figma as trainings to
 
 ### Monet design
 ![Monet](https://github.com/G1anC/DESIGNS/blob/main/.github/MonetHome.png)
+
+### PortFolio
+![Portfolio](https://github.com/G1anC/DESIGNS/blob/main/.github/Portfolio.png)
