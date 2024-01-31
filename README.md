@@ -14,4 +14,4 @@ A re-iteration of my portfolio that fits me better but i don't have the time to 
 ### Radiohead
 
 Same as Claude Monet but for the ground-breaking group that is Radiohead.
-![Radiohead](https://github.com/G1anC/DESIGNS/blib/main/.github/Radiohead.png)
+![Radiohead](https://github.com/G1anC/DESIGNS/blob/main/.github/Radiohead.png)
